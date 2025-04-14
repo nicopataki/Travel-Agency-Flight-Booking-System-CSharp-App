@@ -1,0 +1,5 @@
+﻿namespace FlightNetworking.jsonprotocol;
+
+public enum RequestType {
+    LOGIN, GET_ALL_TRIPS, SEARCH_MANAGER_BY_NAME, SEARCH_TRIP_BY_ID, GET_ALL_TRIPS_BY_DESTINATION, ADD_RESERVATION, LOGOUT
+}

@@ -1,0 +1,260 @@
+2025-03-18 10:16:11,267 [1] INFO Program - Aplicația a pornit!
+2025-03-18 10:16:11,536 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 10:16:11,543 [1] INFO Program - Test connection successful
+2025-03-18 10:16:11,545 [1] INFO LabMPP.repository.databases.TripRepoRepository - Creating TripRepository
+2025-03-18 10:16:11,546 [1] INFO LabMPP.repository.databases.TripRepoRepository - Finding all Trips
+2025-03-18 10:16:11,546 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 10:16:11,574 [1] INFO LabMPP.repository.databases.TripRepoRepository - Finding all Trips
+2025-03-18 10:16:11,575 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 10:16:11,584 [1] INFO LabMPP.repository.databases.TripRepoRepository - Saving Trip
+2025-03-18 10:16:11,585 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 10:16:11,606 [1] INFO LabMPP.repository.databases.TripRepoRepository - Finding all Trips
+2025-03-18 10:16:11,611 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 10:16:11,615 [1] INFO LabMPP.repository.databases.ManagerRepository - Creating ManagerRepository
+2025-03-18 10:16:11,617 [1] INFO LabMPP.repository.databases.ManagerRepository - Finding all Managers
+2025-03-18 10:16:11,618 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 10:16:11,620 [1] INFO LabMPP.repository.databases.ManagerRepository - Finding all Managers
+2025-03-18 10:16:11,621 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 10:16:11,624 [1] INFO LabMPP.repository.databases.ManagerRepository - Saving Manager
+2025-03-18 10:16:11,625 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 10:16:11,630 [1] INFO LabMPP.repository.databases.ManagerRepository - Finding all Managers
+2025-03-18 10:16:11,639 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 10:16:11,642 [1] INFO LabMPP.repository.databases.ReservationRepository - Creating TripRepository
+2025-03-18 10:16:11,643 [1] INFO LabMPP.repository.databases.TripRepoRepository - Creating TripRepository
+2025-03-18 10:16:11,644 [1] INFO LabMPP.repository.databases.ReservationRepository - Finding all Reservations
+2025-03-18 10:16:11,645 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 10:16:11,647 [1] INFO LabMPP.repository.databases.ReservationRepository - Finding Reservation
+2025-03-18 10:16:11,648 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 10:16:11,650 [1] INFO LabMPP.repository.databases.TripRepoRepository - Finding Trip
+2025-03-18 10:16:11,652 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 10:16:11,658 [1] INFO LabMPP.repository.databases.ReservationRepository - Finding all Reservations
+2025-03-18 10:16:11,659 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 10:16:11,660 [1] INFO LabMPP.repository.databases.ReservationRepository - Finding Reservation
+2025-03-18 10:16:11,661 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 10:16:11,661 [1] INFO LabMPP.repository.databases.TripRepoRepository - Finding Trip
+2025-03-18 10:16:11,662 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 10:16:11,665 [1] INFO LabMPP.repository.databases.ReservationRepository - Saving Reservation
+2025-03-18 10:16:11,666 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 10:16:11,674 [1] INFO LabMPP.repository.databases.ReservationRepository - Finding all Reservations
+2025-03-18 10:16:11,679 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 10:16:11,681 [1] INFO LabMPP.repository.databases.ReservationRepository - Finding Reservation
+2025-03-18 10:16:11,682 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 10:16:11,683 [1] INFO LabMPP.repository.databases.TripRepoRepository - Finding Trip
+2025-03-18 10:16:11,684 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 10:16:11,685 [1] INFO LabMPP.repository.databases.ReservationRepository - Finding Reservation
+2025-03-18 10:16:11,686 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 10:16:11,687 [1] INFO LabMPP.repository.databases.TripRepoRepository - Finding Trip
+2025-03-18 10:16:11,688 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 15:56:20,438 [1] INFO Program - Aplicația a pornit!
+2025-03-18 15:56:20,703 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 15:56:20,711 [1] INFO Program - Test connection successful
+2025-03-18 15:56:20,713 [1] INFO LabMPP.repository.databases.TripRepoRepository - Creating TripRepository
+2025-03-18 15:56:20,714 [1] INFO LabMPP.repository.databases.TripRepoRepository - Finding all Trips
+2025-03-18 15:56:20,715 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 15:56:20,744 [1] INFO LabMPP.repository.databases.TripRepoRepository - Finding all Trips
+2025-03-18 15:56:20,745 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 15:56:20,750 [1] INFO LabMPP.repository.databases.TripRepoRepository - Saving Trip
+2025-03-18 15:56:20,751 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 15:56:20,767 [1] INFO LabMPP.repository.databases.TripRepoRepository - Finding all Trips
+2025-03-18 15:56:20,770 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 15:56:20,774 [1] INFO LabMPP.repository.databases.ManagerRepository - Creating ManagerRepository
+2025-03-18 15:56:20,775 [1] INFO LabMPP.repository.databases.ManagerRepository - Finding all Managers
+2025-03-18 15:56:20,776 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 15:56:20,777 [1] INFO LabMPP.repository.databases.ManagerRepository - Finding all Managers
+2025-03-18 15:56:20,778 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 15:56:20,782 [1] INFO LabMPP.repository.databases.ManagerRepository - Saving Manager
+2025-03-18 15:56:20,783 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 15:56:20,787 [1] INFO LabMPP.repository.databases.ManagerRepository - Finding all Managers
+2025-03-18 15:56:20,790 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 15:56:20,793 [1] INFO LabMPP.repository.databases.ReservationRepository - Creating TripRepository
+2025-03-18 15:56:20,794 [1] INFO LabMPP.repository.databases.TripRepoRepository - Creating TripRepository
+2025-03-18 15:56:20,795 [1] INFO LabMPP.repository.databases.ReservationRepository - Finding all Reservations
+2025-03-18 15:56:20,796 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 15:56:20,798 [1] INFO LabMPP.repository.databases.ReservationRepository - Finding Reservation
+2025-03-18 15:56:20,800 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 15:56:20,802 [1] INFO LabMPP.repository.databases.TripRepoRepository - Finding Trip
+2025-03-18 15:56:20,803 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 15:56:20,806 [1] INFO LabMPP.repository.databases.ReservationRepository - Finding Reservation
+2025-03-18 15:56:20,808 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 15:56:20,809 [1] INFO LabMPP.repository.databases.TripRepoRepository - Finding Trip
+2025-03-18 15:56:20,809 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 15:56:20,810 [1] INFO LabMPP.repository.databases.ReservationRepository - Finding all Reservations
+2025-03-18 15:56:20,811 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 15:56:20,811 [1] INFO LabMPP.repository.databases.ReservationRepository - Finding Reservation
+2025-03-18 15:56:20,813 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 15:56:20,814 [1] INFO LabMPP.repository.databases.TripRepoRepository - Finding Trip
+2025-03-18 15:56:20,816 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 15:56:20,817 [1] INFO LabMPP.repository.databases.ReservationRepository - Finding Reservation
+2025-03-18 15:56:20,818 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 15:56:20,818 [1] INFO LabMPP.repository.databases.TripRepoRepository - Finding Trip
+2025-03-18 15:56:20,819 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 15:56:20,823 [1] INFO LabMPP.repository.databases.ReservationRepository - Saving Reservation
+2025-03-18 15:56:20,824 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 15:56:20,830 [1] INFO LabMPP.repository.databases.ReservationRepository - Finding all Reservations
+2025-03-18 15:56:20,834 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 15:56:20,836 [1] INFO LabMPP.repository.databases.ReservationRepository - Finding Reservation
+2025-03-18 15:56:20,838 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 15:56:20,838 [1] INFO LabMPP.repository.databases.TripRepoRepository - Finding Trip
+2025-03-18 15:56:20,839 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 15:56:20,840 [1] INFO LabMPP.repository.databases.ReservationRepository - Finding Reservation
+2025-03-18 15:56:20,841 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 15:56:20,843 [1] INFO LabMPP.repository.databases.TripRepoRepository - Finding Trip
+2025-03-18 15:56:20,844 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 15:56:20,845 [1] INFO LabMPP.repository.databases.ReservationRepository - Finding Reservation
+2025-03-18 15:56:20,846 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 15:56:20,847 [1] INFO LabMPP.repository.databases.TripRepoRepository - Finding Trip
+2025-03-18 15:56:20,848 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 16:33:24,892 [1] INFO Program - Aplicația a pornit!
+2025-03-18 16:33:24,991 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 16:33:24,995 [1] INFO Program - Test connection successful
+2025-03-18 16:33:24,997 [1] INFO LabMPP.repository.databases.TripRepoRepository - Creating TripRepository
+2025-03-18 16:33:24,997 [1] INFO LabMPP.repository.databases.TripRepoRepository - Finding all Trips
+2025-03-18 16:33:24,998 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 16:33:25,019 [1] INFO LabMPP.repository.databases.TripRepoRepository - Finding all Trips
+2025-03-18 16:33:25,020 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 16:33:25,024 [1] INFO LabMPP.repository.databases.TripRepoRepository - Saving Trip
+2025-03-18 16:33:25,025 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 16:33:25,038 [1] INFO LabMPP.repository.databases.TripRepoRepository - Finding all Trips
+2025-03-18 16:33:25,041 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 16:33:25,044 [1] INFO LabMPP.repository.databases.ManagerRepository - Creating ManagerRepository
+2025-03-18 16:33:25,045 [1] INFO LabMPP.repository.databases.ManagerRepository - Finding all Managers
+2025-03-18 16:33:25,046 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 16:33:25,047 [1] INFO LabMPP.repository.databases.ManagerRepository - Finding all Managers
+2025-03-18 16:33:25,048 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 16:33:25,050 [1] INFO LabMPP.repository.databases.ManagerRepository - Saving Manager
+2025-03-18 16:33:25,052 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 16:33:25,057 [1] INFO LabMPP.repository.databases.ManagerRepository - Finding all Managers
+2025-03-18 16:33:25,059 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 16:33:25,063 [1] INFO LabMPP.repository.databases.ReservationRepository - Creating TripRepository
+2025-03-18 16:33:25,063 [1] INFO LabMPP.repository.databases.TripRepoRepository - Creating TripRepository
+2025-03-18 16:33:25,064 [1] INFO LabMPP.repository.databases.ReservationRepository - Finding all Reservations
+2025-03-18 16:33:25,065 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 16:33:25,066 [1] INFO LabMPP.repository.databases.ReservationRepository - Finding Reservation
+2025-03-18 16:33:25,066 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 16:33:25,067 [1] INFO LabMPP.repository.databases.TripRepoRepository - Finding Trip
+2025-03-18 16:33:25,068 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 16:33:25,070 [1] INFO LabMPP.repository.databases.ReservationRepository - Finding Reservation
+2025-03-18 16:33:25,071 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 16:33:25,071 [1] INFO LabMPP.repository.databases.TripRepoRepository - Finding Trip
+2025-03-18 16:33:25,072 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 16:33:25,074 [1] INFO LabMPP.repository.databases.ReservationRepository - Finding Reservation
+2025-03-18 16:33:25,075 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 16:33:25,075 [1] INFO LabMPP.repository.databases.TripRepoRepository - Finding Trip
+2025-03-18 16:33:25,076 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 16:33:25,076 [1] INFO LabMPP.repository.databases.ReservationRepository - Finding all Reservations
+2025-03-18 16:33:25,077 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 16:33:25,078 [1] INFO LabMPP.repository.databases.ReservationRepository - Finding Reservation
+2025-03-18 16:33:25,078 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 16:33:25,078 [1] INFO LabMPP.repository.databases.TripRepoRepository - Finding Trip
+2025-03-18 16:33:25,079 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 16:33:25,080 [1] INFO LabMPP.repository.databases.ReservationRepository - Finding Reservation
+2025-03-18 16:33:25,080 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 16:33:25,080 [1] INFO LabMPP.repository.databases.TripRepoRepository - Finding Trip
+2025-03-18 16:33:25,082 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 16:33:25,083 [1] INFO LabMPP.repository.databases.ReservationRepository - Finding Reservation
+2025-03-18 16:33:25,084 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 16:33:25,085 [1] INFO LabMPP.repository.databases.TripRepoRepository - Finding Trip
+2025-03-18 16:33:25,086 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 16:33:25,088 [1] INFO LabMPP.repository.databases.ReservationRepository - Saving Reservation
+2025-03-18 16:33:25,089 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 16:33:25,095 [1] INFO LabMPP.repository.databases.ReservationRepository - Finding all Reservations
+2025-03-18 16:33:25,098 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 16:33:25,099 [1] INFO LabMPP.repository.databases.ReservationRepository - Finding Reservation
+2025-03-18 16:33:25,101 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 16:33:25,103 [1] INFO LabMPP.repository.databases.TripRepoRepository - Finding Trip
+2025-03-18 16:33:25,104 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 16:33:25,105 [1] INFO LabMPP.repository.databases.ReservationRepository - Finding Reservation
+2025-03-18 16:33:25,106 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 16:33:25,108 [1] INFO LabMPP.repository.databases.TripRepoRepository - Finding Trip
+2025-03-18 16:33:25,110 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 16:33:25,111 [1] INFO LabMPP.repository.databases.ReservationRepository - Finding Reservation
+2025-03-18 16:33:25,112 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 16:33:25,114 [1] INFO LabMPP.repository.databases.TripRepoRepository - Finding Trip
+2025-03-18 16:33:25,116 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 16:33:25,117 [1] INFO LabMPP.repository.databases.ReservationRepository - Finding Reservation
+2025-03-18 16:33:25,117 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-18 16:33:25,118 [1] INFO LabMPP.repository.databases.TripRepoRepository - Finding Trip
+2025-03-18 16:33:25,119 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-19 19:47:27,012 [1] INFO Program - Aplicația a pornit!
+2025-03-19 19:47:27,266 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-19 19:47:27,278 [1] INFO Program - Test connection successful
+2025-03-19 19:47:27,281 [1] INFO LabMPP.repository.databases.TripRepoRepository - Creating TripRepository
+2025-03-19 19:47:27,282 [1] INFO LabMPP.repository.databases.TripRepoRepository - Finding all Trips
+2025-03-19 19:47:27,283 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-19 19:47:27,317 [1] INFO LabMPP.repository.databases.TripRepoRepository - Finding all Trips
+2025-03-19 19:47:27,319 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-19 19:47:27,325 [1] INFO LabMPP.repository.databases.TripRepoRepository - Saving Trip
+2025-03-19 19:47:27,327 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-19 19:47:27,355 [1] INFO LabMPP.repository.databases.TripRepoRepository - Finding all Trips
+2025-03-19 19:47:27,360 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-19 19:47:27,366 [1] INFO LabMPP.repository.databases.ManagerRepository - Creating ManagerRepository
+2025-03-19 19:47:27,368 [1] INFO LabMPP.repository.databases.ManagerRepository - Finding all Managers
+2025-03-19 19:47:27,369 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-19 19:47:27,372 [1] INFO LabMPP.repository.databases.ManagerRepository - Finding all Managers
+2025-03-19 19:47:27,373 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-19 19:47:27,376 [1] INFO LabMPP.repository.databases.ManagerRepository - Saving Manager
+2025-03-19 19:47:27,378 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-19 19:47:27,386 [1] INFO LabMPP.repository.databases.ManagerRepository - Finding all Managers
+2025-03-19 19:47:27,391 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-19 19:47:27,397 [1] INFO LabMPP.repository.databases.ReservationRepository - Creating TripRepository
+2025-03-19 19:47:27,397 [1] INFO LabMPP.repository.databases.TripRepoRepository - Creating TripRepository
+2025-03-19 19:47:27,400 [1] INFO LabMPP.repository.databases.ReservationRepository - Finding all Reservations
+2025-03-19 19:47:27,402 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-19 19:47:27,405 [1] INFO LabMPP.repository.databases.ReservationRepository - Finding Reservation
+2025-03-19 19:47:27,407 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-19 19:47:27,410 [1] INFO LabMPP.repository.databases.TripRepoRepository - Finding Trip
+2025-03-19 19:47:27,412 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-19 19:47:27,420 [1] INFO LabMPP.repository.databases.ReservationRepository - Finding Reservation
+2025-03-19 19:47:27,422 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-19 19:47:27,423 [1] INFO LabMPP.repository.databases.TripRepoRepository - Finding Trip
+2025-03-19 19:47:27,425 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-19 19:47:27,426 [1] INFO LabMPP.repository.databases.ReservationRepository - Finding Reservation
+2025-03-19 19:47:27,427 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-19 19:47:27,428 [1] INFO LabMPP.repository.databases.TripRepoRepository - Finding Trip
+2025-03-19 19:47:27,430 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-19 19:47:27,431 [1] INFO LabMPP.repository.databases.ReservationRepository - Finding Reservation
+2025-03-19 19:47:27,433 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-19 19:47:27,434 [1] INFO LabMPP.repository.databases.TripRepoRepository - Finding Trip
+2025-03-19 19:47:27,435 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-19 19:47:27,437 [1] INFO LabMPP.repository.databases.ReservationRepository - Finding all Reservations
+2025-03-19 19:47:27,440 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-19 19:47:27,442 [1] INFO LabMPP.repository.databases.ReservationRepository - Finding Reservation
+2025-03-19 19:47:27,444 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-19 19:47:27,445 [1] INFO LabMPP.repository.databases.TripRepoRepository - Finding Trip
+2025-03-19 19:47:27,447 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-19 19:47:27,448 [1] INFO LabMPP.repository.databases.ReservationRepository - Finding Reservation
+2025-03-19 19:47:27,450 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-19 19:47:27,451 [1] INFO LabMPP.repository.databases.TripRepoRepository - Finding Trip
+2025-03-19 19:47:27,452 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-19 19:47:27,453 [1] INFO LabMPP.repository.databases.ReservationRepository - Finding Reservation
+2025-03-19 19:47:27,455 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-19 19:47:27,457 [1] INFO LabMPP.repository.databases.TripRepoRepository - Finding Trip
+2025-03-19 19:47:27,459 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-19 19:47:27,460 [1] INFO LabMPP.repository.databases.ReservationRepository - Finding Reservation
+2025-03-19 19:47:27,461 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-19 19:47:27,462 [1] INFO LabMPP.repository.databases.TripRepoRepository - Finding Trip
+2025-03-19 19:47:27,464 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-19 19:47:27,469 [1] INFO LabMPP.repository.databases.ReservationRepository - Saving Reservation
+2025-03-19 19:47:27,471 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-19 19:47:27,480 [1] INFO LabMPP.repository.databases.ReservationRepository - Finding all Reservations
+2025-03-19 19:47:27,484 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-19 19:47:27,485 [1] INFO LabMPP.repository.databases.ReservationRepository - Finding Reservation
+2025-03-19 19:47:27,487 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-19 19:47:27,489 [1] INFO LabMPP.repository.databases.TripRepoRepository - Finding Trip
+2025-03-19 19:47:27,491 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-19 19:47:27,492 [1] INFO LabMPP.repository.databases.ReservationRepository - Finding Reservation
+2025-03-19 19:47:27,493 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-19 19:47:27,495 [1] INFO LabMPP.repository.databases.TripRepoRepository - Finding Trip
+2025-03-19 19:47:27,496 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-19 19:47:27,497 [1] INFO LabMPP.repository.databases.ReservationRepository - Finding Reservation
+2025-03-19 19:47:27,498 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-19 19:47:27,498 [1] INFO LabMPP.repository.databases.TripRepoRepository - Finding Trip
+2025-03-19 19:47:27,500 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-19 19:47:27,502 [1] INFO LabMPP.repository.databases.ReservationRepository - Finding Reservation
+2025-03-19 19:47:27,503 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-19 19:47:27,504 [1] INFO LabMPP.repository.databases.TripRepoRepository - Finding Trip
+2025-03-19 19:47:27,506 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-19 19:47:27,507 [1] INFO LabMPP.repository.databases.ReservationRepository - Finding Reservation
+2025-03-19 19:47:27,508 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.
+2025-03-19 19:47:27,509 [1] INFO LabMPP.repository.databases.TripRepoRepository - Finding Trip
+2025-03-19 19:47:27,511 [1] INFO LabMPP.repository.databases.DBUtils - Connection opened successfully.

@@ -1,0 +1,14 @@
+C:\Users\Asus\RiderProjects\LabMPP\FlightModel\bin\Debug\net9.0\FlightModel.exe
+C:\Users\Asus\RiderProjects\LabMPP\FlightModel\bin\Debug\net9.0\FlightModel.deps.json
+C:\Users\Asus\RiderProjects\LabMPP\FlightModel\bin\Debug\net9.0\FlightModel.runtimeconfig.json
+C:\Users\Asus\RiderProjects\LabMPP\FlightModel\bin\Debug\net9.0\FlightModel.dll
+C:\Users\Asus\RiderProjects\LabMPP\FlightModel\bin\Debug\net9.0\FlightModel.pdb
+C:\Users\Asus\RiderProjects\LabMPP\FlightModel\obj\Debug\net9.0\FlightModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\RiderProjects\LabMPP\FlightModel\obj\Debug\net9.0\FlightModel.AssemblyInfoInputs.cache
+C:\Users\Asus\RiderProjects\LabMPP\FlightModel\obj\Debug\net9.0\FlightModel.AssemblyInfo.cs
+C:\Users\Asus\RiderProjects\LabMPP\FlightModel\obj\Debug\net9.0\FlightModel.csproj.CoreCompileInputs.cache
+C:\Users\Asus\RiderProjects\LabMPP\FlightModel\obj\Debug\net9.0\FlightModel.dll
+C:\Users\Asus\RiderProjects\LabMPP\FlightModel\obj\Debug\net9.0\refint\FlightModel.dll
+C:\Users\Asus\RiderProjects\LabMPP\FlightModel\obj\Debug\net9.0\FlightModel.pdb
+C:\Users\Asus\RiderProjects\LabMPP\FlightModel\obj\Debug\net9.0\FlightModel.genruntimeconfig.cache
+C:\Users\Asus\RiderProjects\LabMPP\FlightModel\obj\Debug\net9.0\ref\FlightModel.dll
