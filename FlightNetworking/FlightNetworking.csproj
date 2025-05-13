@@ -8,6 +8,12 @@
     </PropertyGroup>
 
     <ItemGroup>
+      <PackageReference Include="Google.Protobuf" Version="3.25.0" />
+      <PackageReference Include="Grpc.AspNetCore" Version="2.58.0" />
+      <PackageReference Include="Grpc.Tools" Version="2.58.0">
+        <PrivateAssets>all</PrivateAssets>
+        <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      </PackageReference>
       <PackageReference Include="log4net" Version="2.0.15" />
       <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
     </ItemGroup>
@@ -17,5 +23,10 @@
       <ProjectReference Include="..\FlightPersistance\FlightPersistance.csproj" />
       <ProjectReference Include="..\FlightServices\FlightServices.csproj" />
     </ItemGroup>
+    
+    <ItemGroup>
+        <Protobuf Include="proto\FlightProtocol.proto" GrpcServices="Both" />
+    </ItemGroup>
+
 
 </Project>

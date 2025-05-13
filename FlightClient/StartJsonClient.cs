@@ -10,7 +10,7 @@ namespace FlightClient;
 
 public class StartJsonClient
 {
-    private static int defaultChatPort = 55555;
+    private static int defaultChatPort = 12345;
     private static string defaultServer = "localhost";
 
     public static void Main()

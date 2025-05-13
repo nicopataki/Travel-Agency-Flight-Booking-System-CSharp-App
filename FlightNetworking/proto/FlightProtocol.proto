@@ -1,0 +1,104 @@
+﻿syntax = "proto3";
+
+option csharp_namespace = "csharp.flightproto";
+option java_package = "flightproto";
+option java_outer_classname = "FlightProtocol";
+
+// === Mesaje pentru entități ===
+message Manager {
+  string name = 1;
+  string password = 2;
+}
+
+message Trip {
+  int64 id = 1;
+  string destination = 2;
+  string departureTime = 3;
+  string airport = 4;
+  int32 noOfAvailableSeats = 5;
+}
+
+message Reservation {
+  int64 id = 1;
+  int64 tripId = 2;
+  string touristName = 3;
+  int32 noOfSeats = 4;
+}
+
+// === Mesaje pentru cereri/răspunsuri ===
+
+message LoginRequest {
+  Manager manager = 1;
+}
+
+message LoginResponse {
+  bool success = 1;
+  string message = 2;
+}
+
+message ManagerSearchRequest {
+  string name = 1;
+  string password = 2;
+}
+
+message ManagerResponse {
+  bool found = 1;
+  Manager manager = 2;
+  string error = 3;
+}
+
+message Empty {}
+
+message TripsResponse {
+  repeated Trip trips = 1;
+}
+
+message TripIdRequest {
+  int64 id = 1;
+}
+
+message TripResponse {
+  Trip trip = 1;
+  string error = 2;
+}
+
+message TripSearchRequest {
+  string destination = 1;
+  string date = 2;
+}
+
+message AddReservationRequest {
+  Reservation reservation = 1;
+}
+
+message AddReservationResponse {
+  bool success = 1;
+  string error = 2;
+}
+
+message LogoutRequest {
+  Manager manager = 1;
+}
+
+message ReservationNotificationRequest {
+  string managerName = 1;
+}
+
+message ReservationNotification {
+  string message = 1;
+  int64 tripId = 2;
+}
+
+// === Service ===
+
+service FlightService {
+  rpc Login(LoginRequest) returns (LoginResponse);
+  rpc SearchManagerByName(ManagerSearchRequest) returns (ManagerResponse);
+  rpc GetAllTrips(Empty) returns (TripsResponse);
+  rpc SearchTripById(TripIdRequest) returns (TripResponse);
+  rpc SearchTripsByDestination(TripSearchRequest) returns (TripsResponse);
+  rpc AddReservation(AddReservationRequest) returns (AddReservationResponse);
+  rpc Logout(LogoutRequest) returns (Empty);
+
+  rpc ReservationStream(ReservationNotificationRequest) returns (stream ReservationNotification);
+}

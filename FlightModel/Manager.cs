@@ -10,6 +10,8 @@ public class Manager: Entity<long>
         Name = name;
         this.Password = password;
     }
+    
+    public Manager(){}
 
     public override string ToString()
     {

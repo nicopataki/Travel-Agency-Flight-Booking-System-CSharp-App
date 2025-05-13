@@ -1,0 +1,2 @@
+obj\Debug\net9.0\proto/FlightProtocol.cs \
+obj\Debug\net9.0\proto/FlightProtocolGrpc.cs: proto/FlightProtocol.proto

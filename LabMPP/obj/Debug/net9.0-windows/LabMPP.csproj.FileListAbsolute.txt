@@ -25,6 +25,7 @@ C:\Users\Asus\RiderProjects\LabMPP\LabMPP\obj\Debug\net9.0-windows\LabMPP.Genera
 C:\Users\Asus\RiderProjects\LabMPP\LabMPP\obj\Debug\net9.0-windows\LabMPP.AssemblyInfoInputs.cache
 C:\Users\Asus\RiderProjects\LabMPP\LabMPP\obj\Debug\net9.0-windows\LabMPP.AssemblyInfo.cs
 C:\Users\Asus\RiderProjects\LabMPP\LabMPP\obj\Debug\net9.0-windows\LabMPP.csproj.CoreCompileInputs.cache
+C:\Users\Asus\RiderProjects\LabMPP\LabMPP\obj\Debug\net9.0-windows\LabMPP.sourcelink.json
 C:\Users\Asus\RiderProjects\LabMPP\LabMPP\obj\Debug\net9.0-windows\LabMPP.csproj.Up2Date
 C:\Users\Asus\RiderProjects\LabMPP\LabMPP\obj\Debug\net9.0-windows\LabMPP.dll
 C:\Users\Asus\RiderProjects\LabMPP\LabMPP\obj\Debug\net9.0-windows\refint\LabMPP.dll

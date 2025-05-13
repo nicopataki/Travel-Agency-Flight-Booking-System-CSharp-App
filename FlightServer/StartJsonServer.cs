@@ -7,20 +7,26 @@ using LabMPP.repository.interfaces;
 using log4net;
 using log4net.Config;
 using FlightNetworking;
+using FlightPersistance.entityFramework;
+using Microsoft.EntityFrameworkCore;
 
 namespace FlightServer;
 
 public class StartJsonServer
 {
-    private static int defaultPort = 55555;
+    private static int defaultPort = 12345;
     private static String defaultId = "127.0.0.1";
 
     /*[STAThread]*/
     public static void Main(string[] args)
     {
-        IManagerRepo reservationManagerRepository = new ManagerRepository();
+        var options = new DbContextOptionsBuilder<MyDbContext>()
+            .UseSqlite("Data Source=C:\\Users\\Asus\\OneDrive\\Desktop\\anul II\\LabMPP\\zboruri.db") 
+            .Options;
+        var context = new MyDbContext(options);
+        IManagerRepo reservationManagerRepository = new ManagerEFRepo(context);
         IReservationRepo reservationRepository = new ReservationRepository();
-        ITripRepo tripRepository = new TripRepoRepository();
+        ITripRepo tripRepository = new TripEFRepo(context);
         IFlightServices transportServerImpl =
             new FlightServicesImplementation(reservationManagerRepository, reservationRepository, tripRepository);
 

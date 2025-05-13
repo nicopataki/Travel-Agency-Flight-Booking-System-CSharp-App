@@ -15,6 +15,10 @@ public class Trip: Entity<long>
         Aeroport = aeroport;
     }
 
+    public Trip()
+    {
+    }
+
     public override string ToString()
     {
         return "Trip " + "destination='" + Destination + "', " + DepartureTime + ", " + NoOfSeatsAvailable + ","+Aeroport+"\n";

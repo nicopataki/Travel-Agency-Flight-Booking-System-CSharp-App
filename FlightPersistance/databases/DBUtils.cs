@@ -1,6 +1,7 @@
 ﻿using System.Configuration;
 using System.Data;
 using System.Data.SQLite;
+using FlightPersistance.entityFramework;
 using log4net;
 
 namespace LabMPP.repository.databases;
