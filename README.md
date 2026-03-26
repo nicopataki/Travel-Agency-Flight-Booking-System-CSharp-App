@@ -1,0 +1,1 @@
+A client-server flight booking system for travel agencies, implemented using Java and C#. It supports real-time updates, concurrent clients via sockets and multithreading, and allows users to search flights and purchase tickets with automatic synchronization across all connected clients.
